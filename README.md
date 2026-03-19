@@ -97,7 +97,7 @@ To Implement ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
 
 
 ## Output:
-<img width="812" height="547" alt="image" src="https://github.com/user-attachments/assets/2987c6fb-a989-4380-817b-97e62c37e42f" />
+<img width="815" height="499" alt="image" src="https://github.com/user-attachments/assets/1736c32d-0a9d-4d4d-9273-f2623774787f" />
 
 
 ## Result:
